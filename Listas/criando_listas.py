@@ -22,8 +22,11 @@ print(lista2.index(5))
 #Verificando se um elemento está na lista('obj' in lista)
 print(5 in lista2)#retorna true se o elemento estiver na lista
 print('=======================')
-#Invertendo dados de uma lista
+#Invertendo dados de uma lista(list.reverse())
 lista3 = ['joao' , 'maria']
 
+print(lista3)
 lista3.reverse()
 print(lista3)
+
+
