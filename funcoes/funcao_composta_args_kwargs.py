@@ -13,6 +13,7 @@ def print_2_vezes(*args):
 print_2_vezes('É sobre isso!!! ', 'isso ai irmao')
 
 
+#funcao para percorrer um dicionario e retornar itens 
 def mostrar_dados(**kwarg):
       for dado, valor in kwarg.items():
             print(dado + ' - ' + str (valor))
@@ -20,6 +21,5 @@ def mostrar_dados(**kwarg):
 pessoa = mostrar_dados(nome='juao',
                      idade= 12,
                      nacionalidade='brasileiro')
-
 print(pessoa)
             
