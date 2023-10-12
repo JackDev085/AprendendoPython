@@ -4,7 +4,7 @@ tanto o aproveitamento de código como diminuir possiveis redundâncias'''
 #aqui temos uma classe pai chamada carros com o atributo nom e cor
 class Carros():
     #Construtor que recebe um objeto do tipo carro
-    def __init__(self, nome, cor):
+    def __init__(self, nome, cor ):
         #Atribuiçoes das variaveis de instancas, aos atributos de classe.
         self.nome = nome
         self.cor = cor
