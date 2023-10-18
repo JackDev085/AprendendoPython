@@ -1,0 +1,4 @@
+#Numpy é uma das bibliotecas mais utilizados para o tratamento de dados em formato vetorial e matricialm devida a sua facilidade
+de implementação e uso, é a biblioteca numpy. Esta por usa vez oferece grande variedade de funç~es artiméticas de fácil aprlicação
+, de modo que para certos tipos de operações as funções da biblioteca Numpy são muito mais intuitivas e eficientes do que as funções
+nativas de mesmo propósito  presentes nas built-ins do Python para as chamadas arrays.

@@ -67,7 +67,7 @@ class Queue:
         return - self._count
     def __bool__(self) ->bool:
         return bool(self._count)
-    def __iter__(self) -> Queue:
+    def __iter__(self) ->Queue:
         return self
 
     def __next__(self) -> Any:

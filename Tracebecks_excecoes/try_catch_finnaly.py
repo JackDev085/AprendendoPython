@@ -12,17 +12,6 @@ finally:
     print("Fim do bloco try-except-finally.")
 
 
-try:
-    num1 = int(input(' primeiro numero'))
-    num2 = int(input(' segundo numero'))
-
-except Exception as e: 
-    print(f'Erro inesperado {e}')
-
-finally:
-    soma = num1+num2
-
-    print(soma)
 
 
     
